@@ -1,4 +1,6 @@
-![Logo](pics/logo.png)
+<center>![Logo](pics/logo.png)<center>
+
+---
 # Capstone Project @neuefische
 This is my capston project from the twelve week Data Science Bootcamp at neuefische in Hamburg and should show what I learned in the last three months. I am new to Data Science and had almost no previous knowledge in programming and mathematical models, so there was a lot to learn... For my project I have selected the following kaggle competition.
 
