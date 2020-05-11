@@ -34,11 +34,13 @@ Download the data here: https://www.kaggle.com/c/ga-customer-revenue-prediction/
 ---
 ## My three biggest challenges
 - **Handle the data size**
-    flndj
+
     
-- Understand the meaning of 148 different features
+    
+- **Understand the meaning of 148 different features**
 
-    fd
-- To find the needle in the haystack
+    I know a lot about advertising, but I have never seen Google Analytics data before. The most difficult thing was to find out under which conditions missing values occur. 
+    
+- **To find the needle in the haystack**
 
-    eri
+    The task was to find from a list of almost 300,000 IDs those who would spend money again within a defined period. Only 30-40 belong to the target group.
