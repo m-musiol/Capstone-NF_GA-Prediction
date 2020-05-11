@@ -1,4 +1,6 @@
-# Google-Analytics-Customer-Revenue-Prediction
+# Capstone Project @neuefische
+## Google-Analytics-Customer-Revenue-Prediction
+
 https://www.kaggle.com/c/ga-customer-revenue-prediction
 
 
