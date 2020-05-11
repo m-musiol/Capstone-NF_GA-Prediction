@@ -35,7 +35,7 @@ Download the data here: https://www.kaggle.com/c/ga-customer-revenue-prediction/
 ## My three biggest challenges
 - **Handle the data size**
 
-    
+    I was using a MacBook Pro with 8GB of memory and only 35GB of free space on the hard drive. The first big hurdle was to load the data into the Jupyter notebook. 
     
 - **Understand the meaning of 148 different features**
 
@@ -44,3 +44,21 @@ Download the data here: https://www.kaggle.com/c/ga-customer-revenue-prediction/
 - **To find the needle in the haystack**
 
     The task was to find from a list of almost 300,000 IDs those who would spend money again within a defined period. Only 30-40 belong to the target group.
+    
+---    
+## Which files are in this repositorie? 
+- **GA-Customer-Revenue-Prediction_presentation**
+
+    A short non-technical presentation about my solution to the task and what additional information I could draw from the data set so far. 
+    
+- **GA-Customer-Revenue-Prediction_model**
+    
+    The complete process from data import, preparation, feature engineering, modelling and export to the result. 
+    
+- **Model_finding**
+    
+    The different models I tested before I decided to use LightGBM.
+    
+- **EDA_and_Visualization**
+
+    The visualizations I used in the presentation.
