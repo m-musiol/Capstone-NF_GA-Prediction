@@ -53,7 +53,7 @@ Download the data here: https://www.kaggle.com/c/ga-customer-revenue-prediction/
     
 - **GA-Customer-Revenue-Prediction_model**
     
-    The complete process from data import, preparation, feature engineering, modelling and export to the result. 
+    The complete process from data import, preparation, feature engineering, modelling and export the result. 
     
 - **Model_finding**
     
