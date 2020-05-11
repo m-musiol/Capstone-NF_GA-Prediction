@@ -34,8 +34,11 @@ Download the data here: https://www.kaggle.com/c/ga-customer-revenue-prediction/
 ---
 ## My three biggest challenges
 - Handle the data size
+
 flndj
 - Understand the meaning of 148 different features
+
 fd
 - To find the needle in the haystack
+
 eri
