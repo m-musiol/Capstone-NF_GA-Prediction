@@ -1,8 +1,4 @@
-<center> 
-
-![Logo](pics/logo.png)
-
-</center>    
+<center> ![Logo](pics/logo.png) </center>    
 
 ---
 # Capstone Project @neuefische
