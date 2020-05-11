@@ -31,5 +31,11 @@ Download the data here: https://www.kaggle.com/c/ga-customer-revenue-prediction/
 - test_v2.csv - the updated test set - contains user transactions from May 1st 2018 to October 15th 2018.
 - sample_submission_v2.csv - a updated sample submission file in the correct format. Contains all fullVisitorIds in test_v2.csv. Your submission's PredictedLogRevenue column should make forward-looking predictions for each of these fullVisitorIds for the timeframe of December 1st 2018 to January 31st 2019. Review "What am I predicting?" above for details.
 
-
-my three biggest challenges
+---
+## My three biggest challenges
+- Handle the data size
+flndj
+- Understand the meaning of 148 different features
+fd
+- To find the needle in the haystack
+eri
