@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data — the raw Kaggle CSVs are huge (24 GB + 7 GB) and never committed.
+data/*.csv
+data/*.parquet
+data/raw/
+data/interim/
+data/processed/
+!data/.gitkeep
+
+# Model artifacts and predictions
+artifacts/
+*.joblib
+*.pkl
+submission*.csv
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/
